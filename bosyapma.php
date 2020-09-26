@@ -1,7 +1,7 @@
 {
     "MAIN": {
-        "launcher.jar": "ac3dd44cc5468a1de6bdce7b2cc4187807812e43",
-        "minecraft.jar": "9d9bc162965850ff6220cdba61ff6b58e3bea810"
+        "launcher.jar": "e9de59db7fea6faf00379623ef2e33b4fb137d42",
+        "minecraft.jar": "b5d6b3c2699aa0a0e12eb51e77c24f033003d0a9"
     },
     "LIBRARIES": {
         "icu4j-core-mojang-51.2.jar": "63d216a9311cca6be337c1e458e587f99d382b84",
@@ -81,4 +81,3 @@
         "launcherURL": "https:\/\/client.craftrise.network\/api\/launcher\/files\/launcher.jar",
         "startArguments": "-Xmx%selectedRAM%M -Djava.net.preferIPv4Stack=true -Xmn128M"
     }
-}
