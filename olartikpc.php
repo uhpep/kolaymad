@@ -1,7 +1,7 @@
 {
     "MAIN": {
-        "launcher.jar": "e9de59db7fea6faf00379623ef2e33b4fb137d42",
-        "minecraft.jar": "b5d6b3c2699aa0a0e12eb51e77c24f033003d0a9"
+        "launcher.jar": "2da25b68987f5ce8d82fc736f4534701ad48577c",
+        "minecraft.jar": "a49632c41162758426093bd570d61459ca3b1477"
     },
     "LIBRARIES": {
         "icu4j-core-mojang-51.2.jar": "63d216a9311cca6be337c1e458e587f99d382b84",
