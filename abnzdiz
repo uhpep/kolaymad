@@ -1,0 +1,8 @@
+{
+	"mojang_configuration": "http://launchermeta.mojang.com/mc/launcher.json",
+	"java_preferred_type": "jdk",
+	"launcher_jar_url": "https://launcher.sonoyuncu.network/minecraft-launcher/launcher.jar",
+	"launcher_jar_checksum": "2158880d55dad0fef478acb4b14247e9bf4b1544",
+	"launcher_path": "launcher.jar",
+	"launcher_args": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dcom.sun.net.ssl.checkRevocation=false -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Djna.encoding=UTF-8 -Xmn%initRAM%M -Xmx%maxRAM%M -Djava.net.preferIPv4Stack=true %runArgs%"
+}
